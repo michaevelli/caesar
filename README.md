@@ -1,6 +1,6 @@
 ## Caesar Cipher
 
-Caesar Cipher (https://en.wikipedia.org/wiki/Caesar_cipher)
+Caesar Cipher (https://en.wikipedia.org/wiki/Caesar_cipher)  
 Shift determined by first command line argument
 
 ## Usage
