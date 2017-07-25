@@ -5,10 +5,10 @@ Shift determined by first command line argument
 
 ## Usage
 
-```bash
-$ gcc caesar.c -o caesar
-$ ./caesar 2
-shift
+```
+$ **gcc caesar.c -o caesar**
+$ **./caesar 2**
+**shift**
 ujkhv
 <ctrl+D>
 ```
