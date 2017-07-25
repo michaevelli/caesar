@@ -6,9 +6,9 @@ Shift determined by first command line argument
 ## Usage
 
 ```
-$ **gcc caesar.c -o caesar**
-$ **./caesar 2**
-**shift**
+$ <b>gcc caesar.c -o caesar</b>
+$ <b>./caesar 2</b>
+<b>shift</b>
 ujkhv
 <ctrl+D>
 ```
